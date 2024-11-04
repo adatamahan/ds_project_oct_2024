@@ -11,7 +11,7 @@ Kunskapskontroll 2 - Data Science Project<br>
 <br>
 <br>
 The main content of the repository is the data science report that describes the conducted study and the data science notebook that are a collection of the code that was used in the study. 
-Besides these main files the repository contains the texts that were used as reference as well as the transcriptions that the models predicted, and the created dataset used for fine tuning. 
+A dataset.tsv file as well as the environment requirements are listed as well. 
 <br>
 <br>
 <b> CONTENTS in the NOTEBOOK</b>
@@ -47,7 +47,7 @@ Out of the four models tested on a large audio file then the large-v3 model with
 
 
 Bar plot over the performance of the baseline models
-![graph](baseline_models.png)
+![graph](visualizations/baseline_models.png)
 
 <br>
 Table with results of the training process of the large-v3-turbo model
