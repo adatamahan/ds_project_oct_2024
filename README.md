@@ -47,7 +47,7 @@ Out of the four models tested on a large audio file then the large-v3 model with
 
 
 Bar plot over the performance of the baseline models
-![graph](visualizations/baseline_models.png)
+![graph](baseline_models.png)
 
 <br>
 Table with results of the training process of the large-v3-turbo model
