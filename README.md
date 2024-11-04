@@ -10,8 +10,7 @@ Kunskapskontroll 2 - Data Science Project<br>
 </b>
 <br>
 <br>
-The main content of the repository is the data science report that describes the conducted study and the data science notebook that are a collection of the code that was used in the study. 
-A dataset.tsv file as well as the environment requirements are listed as well. 
+The main content of the repository includes a data science report that describes the conducted study and a data science notebook that contains a collection of the code used in the study. Additionally, a dataset.tsv file and the environment requirements are also provided.
 <br>
 <br>
 <b> CONTENTS in the NOTEBOOK</b>
